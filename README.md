@@ -1,2 +1,2 @@
 # imgrf
-Images resize and fill
+Images resizing and filling
