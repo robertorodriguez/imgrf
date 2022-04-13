@@ -8,5 +8,3 @@ Usage:
 python3 imgrf.py WIDTH HEIGHT FILE [FILE ...]
 
 
-
-Images resizing and filling
